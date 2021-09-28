@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Configs",
+    "\\Inputs",
+    "\\Inputs\\GroupPolicies",
+    "\\Logs",
+    "\\Logs\\Debug",
+    "\\Modules",
+    "\\Outputs"
+  ],
+  "SelectedNode": "\\Modules\\object.psm1",
+  "PreviewInSolutionExplorer": false
+}
